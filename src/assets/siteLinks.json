@@ -11,14 +11,8 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
+    "name": "My Alist",
     "link": "https://cloud.gfxy.live/"
-  },
-  
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
   },
   {
     "icon": "Edge",
